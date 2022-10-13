@@ -2,9 +2,9 @@
 #include<stdio.h>
 
 /**
- * main - printing
+ * main - Entry point
  *
- * Return: Always 0i (sucessful)
+ * Return: Always 0 (success)
  */
 int main(void)
 {

@@ -1,4 +1,4 @@
-#$include <stdio.h>
+#include <stdio.h>
 
 /**
  * main - prints all combination of single digits
@@ -6,12 +6,12 @@
  */
 int main(void)
 {
-	int n;
+	int a;
 
 	for (a = 0; a < 10; a++)
 	{
 		putchar(a + '0');
-		if (a < )
+		if (a < 9)
 		{
 			putchar(',');
 			putchar(' ');

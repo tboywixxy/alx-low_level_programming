@@ -1,5 +1,4 @@
 #include "main.h"
-<<<<<<< HEAD
 /**
  * _print_rev_recursion - This function prints a string in reverse.
  * @s: This is the pointer argument that points to a given parameter.
@@ -29,4 +28,3 @@ void _print_rev_recursion(char *s)
 		_putchar(*s);
 	}
 }
->>>>>>> 2e0272e561547eee3612608a505aeb22c407afc9

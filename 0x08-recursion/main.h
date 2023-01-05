@@ -11,4 +11,3 @@ int is_prime_number(int n);
 int is_palindrome(char *s);
 int wildcmp(char *s1, char *s2);
 int check_pal(char *s, int i, int len);
->>>>>>> 2e0272e561547eee3612608a505aeb22c407afc9
